@@ -1,0 +1,1 @@
+console.log('Selamat datang di 30 hari belajar JavaScript')
